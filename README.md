@@ -1,5 +1,5 @@
 # ESC_using_AFX
-Environmental Sound Classification (ESC) using AFX (Audio Feature Extraction) module
+Environmental Sound Classification (ESC) using [AFX (Audio Feature Extraction) module](https://github.com/danilodsp/AFX)
 
 **01_load_ESC50.ipynb**: Loads and analyzes the ESC-50 dataset, verifies integrity, explores class distribution, and visualizes audio samples and features.
 
