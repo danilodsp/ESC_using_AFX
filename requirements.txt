@@ -1,0 +1,20 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+ipython
+display
+tqdm
+# AI
+tensorflow
+scikit-learn
+# Audio processing
+scipy
+# Jupyter notebook support
+notebook
+# For audio playback in notebooks
+ipython
+# AFX dependencies (install from GitHub)
+# Install AFX from GitHub
+-e git+https://github.com/danilodsp/AFX.git#egg=AFX
